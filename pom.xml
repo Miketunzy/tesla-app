@@ -107,7 +107,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>tessy</finalName>
+		<finalName>tessy1.0</finalName>
 		
 		<plugins>
 			<plugin>
